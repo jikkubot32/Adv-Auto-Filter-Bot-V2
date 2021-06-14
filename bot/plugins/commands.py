@@ -92,7 +92,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developer', url='https://t.me/filmsandtrends_owner'),
         InlineKeyboardButton('Source Code 🧾', url ='https://t.me/joinchat/R0JlHGyBknoL9UEH')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/films_and_trends_group)
+        InlineKeyboardButton('Support 🛠', url='https://t.me/films_and_trends_group')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
