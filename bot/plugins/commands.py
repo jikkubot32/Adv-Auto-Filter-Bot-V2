@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/filmsandtrends_owner"
+                                    'Developer', url="https://t.me/FilmClubChannel"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/filmsandtrends_owner"
+                                    'Developers', url="https://t.me/FilmClubChannel"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/filmsandtrends_owner"
+                                    'Developer', url="https://t.me/FilmClubChannel"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer', url='https://t.me/filmsandtrends_owner'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/joinchat/R0JlHGyBknoL9UEH')
+        InlineKeyboardButton('Developer', url='https://t.me/MalluBhai'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/kurachkanjiedukkatte/8')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/films_and_trends_group')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/FilmClubChannel')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
