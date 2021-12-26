@@ -10,7 +10,7 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@films_and_trends_group
+@FilmClubChannel
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +43,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@films_and_trends_group
+@FilmClubChannel
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/filmsandtrends_owner">filmsandtrends_owner</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/MalluBhai">MalluBhai</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Hosted</b> : <i><a href="https://aws.Amazon.com">AWS Amazon </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://t.me/filmsandtrends_owner">Send Request</a></i>
+<b>➥ Source Code</b> : <i><a href="https://t.me/FilmClubChannel">Send Request</a></i>
 """
